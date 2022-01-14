@@ -26,7 +26,7 @@ import random
 def get_random(list):
 	return list[ random.randrange(len(list)) ]
 
-### Ressources for the sentence generation
+### Resources for the sentence generation
 
 ## list of terms, can easily be extended, just mind the spacing if there is any
 # list of tools
